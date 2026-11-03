@@ -8,6 +8,7 @@
   Building digital solutions through technology,
   creativity and continuous learning.
 </p>
+<p align ="center">
 I'm an ICT graduate passionate about software development,
 database engineering, IT support and digital innovation.
 - Bachelor’s Degree in Information and Communication Technologies with Education from The UNiversity of Zambia
@@ -16,6 +17,7 @@ database engineering, IT support and digital innovation.
 - Exploring Database Design, SQL and Data Management
 - Continuously learning and building practical solutions
 - Interested in technology that solves real-world problems
+</p>
 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/beenzu-habuuya-b4b0a3307 ">
@@ -30,13 +32,10 @@ Connect With Me
   <img src="https://skillicons.dev/icons?i=mysql,html,css,js,git,github,vscode&theme=dark"/>
 </p>
 Featured Projects
-| Project | Description |
-|---|---|
 | MedAssist EMR | Electronic laboratory results system |
 | Zamint Website | Corporate website development |
 | Dynamic Object Tracker | IoT tracking concept |
 | Coffee Shop POS | Point of Sale system |
----
 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
