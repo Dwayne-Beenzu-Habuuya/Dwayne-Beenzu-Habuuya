@@ -1,7 +1,5 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" />
-</p>
 <h1 align="center">Hi, I'm Dwayne Beenzu Habuuya, A Pleasure to have you README</h1>
 <h3 align="center">
   ICT Specialist | Software Developer
@@ -21,7 +19,7 @@ database engineering, IT support and digital innovation.
 - Continuously learning and building practical solutions
 - Interested in technology that solves real-world problems
 ---
-## 🌐 Connect With Me
+Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/beenzu-habuuya-b4b0a3307 ">
     <img src="https://www.linkedin.com/in/beenzu-habuuya-b4b0a3307"/>
@@ -34,7 +32,7 @@ database engineering, IT support and digital innovation.
 ---
 ##Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,git,github,vscode&theme=dark"/>
 </p>
 ---
 ##Featured Projects
@@ -45,7 +43,7 @@ database engineering, IT support and digital innovation.
 | Dynamic Object Tracker | IoT tracking concept |
 | Coffee Shop POS | Point of Sale system |
 ---
-## 📊 GitHub Analytics
+GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
