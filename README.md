@@ -18,7 +18,9 @@ database engineering, IT support and digital innovation.
 - Continuously learning and building practical solutions
 - Interested in technology that solves real-world problems
 </p>
-Connect With Me
+<p align ="center">
+  Connect With Me
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/beenzu-habuuya-b4b0a3307 ">
     <img src="https://www.linkedin.com/in/beenzu-habuuya-b4b0a3307"/>
@@ -31,7 +33,9 @@ Connect With Me
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,html,css,js,git,github,vscode&theme=dark"/>
 </p>
-Featured Projects
+<p align="center">
+  Featured Projects
+</p>
 | MedAssist EMR | Electronic laboratory results system |
 | Zamint Website | Corporate website development |
 | Dynamic Object Tracker | IoT tracking concept |
