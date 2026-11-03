@@ -8,8 +8,6 @@
   Building digital solutions through technology,
   creativity and continuous learning.
 </p>
----
-## 👨🏽‍💻 About Me
 I'm an ICT graduate passionate about software development,
 database engineering, IT support and digital innovation.
 - Bachelor’s Degree in Information and Communication Technologies with Education from The UNiversity of Zambia
@@ -18,7 +16,6 @@ database engineering, IT support and digital innovation.
 - Exploring Database Design, SQL and Data Management
 - Continuously learning and building practical solutions
 - Interested in technology that solves real-world problems
----
 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/beenzu-habuuya-b4b0a3307 ">
@@ -29,13 +26,10 @@ Connect With Me
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
-##Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,html,css,js,git,github,vscode&theme=dark"/>
 </p>
----
-##Featured Projects
+Featured Projects
 | Project | Description |
 |---|---|
 | MedAssist EMR | Electronic laboratory results system |
@@ -51,12 +45,9 @@ GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="80%"/>
 </p
----
-##GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
----
 <p align="center">
   <i>Learning. Building. Innovating. One commit at a time.</i>
 </p>
