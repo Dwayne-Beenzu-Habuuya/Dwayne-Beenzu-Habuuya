@@ -36,11 +36,13 @@ database engineering, IT support and digital innovation.
 <p align="center">
   Featured Projects
 </p>
+<p align="center">
 | MedAssist EMR | Electronic laboratory results system |
 | Zamint Website | Corporate website development |
 | Dynamic Object Tracker | IoT tracking concept |
 | Coffee Shop POS | Point of Sale system |
 GitHub Analytics
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
