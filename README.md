@@ -31,7 +31,7 @@ database engineering, IT support and digital innovation.
   </a>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,java,html,css,js,git,github,vscode&theme=dark"/>
 </p>
 <p align="center">
   Featured Projects
